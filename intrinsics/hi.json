@@ -1,0 +1,95 @@
+{
+    "poses": [
+        {
+            "left_front": {
+                "sholder": 35,
+                "elbow": 75
+            },
+            "left_back": {
+                "sholder": 30,
+                "elbow": 60
+            },
+            "right_front": {
+                "sholder": 120,
+                "elbow": -40
+            },
+            "right_back": {
+                "sholder": 105,
+                "elbow": -30
+            }
+        },
+        {
+            "left_front": {
+                "sholder": -99,
+                "elbow": 40
+            },
+            "left_back": {
+                "sholder": 30,
+                "elbow": 75
+            },
+            "right_front": {
+                "sholder": 125,
+                "elbow": -45
+            },
+            "right_back": {
+                "sholder": 95,
+                "elbow": -30
+            }
+        },
+        {
+            "left_front": {
+                "sholder": -90,
+                "elbow": 62
+            },
+            "left_back": {
+                "sholder": 30,
+                "elbow": 75
+            },
+            "right_front": {
+                "sholder": 125,
+                "elbow": -45
+            },
+            "right_back": {
+                "sholder": 95,
+                "elbow": -30
+            }
+        },
+        {
+            "left_front": {
+                "sholder": 45,
+                "elbow": 45
+            },
+            "left_back": {
+                "sholder": 45,
+                "elbow": 45
+            },
+            "right_front": {
+                "sholder": 105,
+                "elbow": -45
+            },
+            "right_back": {
+                "sholder": 105,
+                "elbow": -45
+            }
+        },
+        {
+            "left_front": {
+                "sholder": 30,
+                "elbow": 30
+            },
+            "left_back": {
+                "sholder": 30,
+                "elbow": 30
+            },
+            "right_front": {
+                "sholder": 30,
+                "elbow": 30
+            },
+            "right_back": {
+                "sholder": 30,
+                "elbow": 30
+            }
+        }
+    ],
+    "description": "Hi gesture front leg up"
+}

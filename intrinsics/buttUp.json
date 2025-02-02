@@ -1,0 +1,23 @@
+{
+    "poses": [
+        {
+            "left_front": {
+                "sholder": 40,
+                "elbow": -30
+            },
+            "left_back": {
+                "sholder": 18,
+                "elbow": 11
+            },
+            "right_front": {
+                "sholder": 40,
+                "elbow": -30
+            },
+            "right_back": {
+                "sholder": 18,
+                "elbow": 11
+            }
+        }
+    ],
+    "comment": "A butt up pose"
+}

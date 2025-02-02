@@ -1,0 +1,23 @@
+{
+    "poses": [
+        {
+            "left_front": {
+                "sholder": 30,
+                "elbow": 30
+            },
+            "left_back": {
+                "sholder": 30,
+                "elbow": 30
+            },
+            "right_front": {
+                "sholder": 30,
+                "elbow": 30
+            },
+            "right_back": {
+                "sholder": 30,
+                "elbow": 30
+            }
+        }
+    ],
+    "description": "up"
+}

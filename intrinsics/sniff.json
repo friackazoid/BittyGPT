@@ -1,0 +1,95 @@
+{
+    "poses": [
+        {
+            "left_front": {
+                "sholder": 30,
+                "elbow": 30
+            },
+            "left_back": {
+                "sholder": 30,
+                "elbow": 30
+            },
+            "right_front": {
+                "sholder": 30,
+                "elbow": 30
+            },
+            "right_back": {
+                "sholder": 30,
+                "elbow": 30
+            }
+        },
+        {
+            "left_front": {
+                "sholder": 44,
+                "elbow": -32
+            },
+            "left_back": {
+                "sholder": 44,
+                "elbow": -32
+            },
+            "right_front": {
+                "sholder": 41,
+                "elbow": 4
+            },
+            "right_back": {
+                "sholder": 41,
+                "elbow": 4
+            }
+        },
+        {
+            "left_front": {
+                "sholder": 74,
+                "elbow": -26
+            },
+            "left_back": {
+                "sholder": 74,
+                "elbow": -26
+            },
+            "right_front": {
+                "sholder": 52,
+                "elbow": 20
+            },
+            "right_back": {
+                "sholder": 52,
+                "elbow": 20
+            }
+        },
+        {
+            "left_front": {
+                "sholder": 74,
+                "elbow": -30
+            },
+            "left_back": {
+                "sholder": 74,
+                "elbow": -30
+            },
+            "right_front": {
+                "sholder": 46,
+                "elbow": 26
+            },
+            "right_back": {
+                "sholder": 46,
+                "elbow": 26
+            }
+        },
+        {
+            "left_front": {
+                "sholder": 30,
+                "elbow": 48
+            },
+            "left_back": {
+                "sholder": 30,
+                "elbow": 48
+            },
+            "right_front": {
+                "sholder": 48,
+                "elbow": 12
+            },
+            "right_back": {
+                "sholder": 48,
+                "elbow": 12
+            }
+        }
+    ],
+    "description": "Sniffing the air."
+}

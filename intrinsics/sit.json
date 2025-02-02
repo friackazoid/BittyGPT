@@ -1,0 +1,23 @@
+{
+    "poses": [
+        {
+            "left_front": {
+                "sholder": 45,
+                "elbow": 45
+            },
+            "left_back": {
+                "sholder": 105,
+                "elbow": -45
+            },
+            "right_front": {
+                "sholder": 45,
+                "elbow": 45
+            },
+            "right_back": {
+                "sholder": 105,
+                "elbow": -45
+            }
+        }
+    ],
+    "comment": "sit"
+}
